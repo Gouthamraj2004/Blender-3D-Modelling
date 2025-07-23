@@ -1,24 +1,87 @@
 # 3D Model Assets for Blender
 
-This repository contains a set of **Blender (.blend) assets** created and curated by Gouthamraj2004. These assets are intended for use in Blender projects—ideal for games, animation, prototyping, and educational purposes.
+This repository contains a set of **Blender (.blend) assets** created and curated by Gouthamraj2004. Below you’ll find a preview and brief description for each asset included.
 
-## Contents
+---
 
-The following files are included in this repository:
+## Asset Previews
 
-| File Name               | Description                              |
-|-------------------------|------------------------------------------|
-| Battery.blend           | 3D model of a battery                    |
-| Drone.blend             | Drone or quadcopter model                |
-| Gift.blend              | Wrapped gift box model                   |
-| Joystick.blend          | Video game joystick model                |
-| Laptop.blend            | 3D model of a laptop                     |
-| OilBarrel.blend         | Industrial oil barrel model              |
-| Rocket 2.blend          | Stylized rocket ship                     |
-| Rubics Cube.blend1      | Rubik’s cube puzzle asset                |
-| Shop.blend              | Small shop/storefront model              |
-| concrete slab.blend     | Concrete slab asset                      |
-| wooden pallet.blend     | Wooden shipping pallet                   |
+### Battery.blend
+_Basic 3D battery model_
+
+![Battery Model](images/battery.png)
+
+---
+
+### Drone.blend
+_Simple drone/quadcopter model_
+
+![Drone Model](images/drone.png)
+
+---
+
+### Gift.blend
+_3D model of a wrapped gift box_
+
+![Gift Model](images/gift.png)
+
+---
+
+### Joystick.blend
+_Video game joystick model_
+
+![Joystick Model](images/joystick.png)
+
+---
+
+### Laptop.blend
+_3D model of a laptop computer_
+
+![Laptop Model](images/laptop.png)
+
+---
+
+### OilBarrel.blend
+_Industrial oil barrel model_
+
+![Oil Barrel Model](images/oilbarrel.png)
+
+---
+
+### Rocket 2.blend
+_Stylized rocket ship model_
+
+![Rocket Model](images/rocket2.png)
+
+---
+
+### Rubics Cube.blend1
+_Rubik’s cube puzzle asset_
+
+![Rubik’s Cube Model](images/rubicscube.png)
+
+---
+
+### Shop.blend
+_Small shop or storefront model_
+
+![Shop Model](images/shop.png)
+
+---
+
+### concrete slab.blend
+_Rectangular concrete slab asset_
+
+![Concrete Slab Model](images/concreteslab.png)
+
+---
+
+### wooden pallet.blend
+_Wooden pallet for logistics_
+
+![Wooden Pallet Model](images/woodenpallet.png)
+
+---
 
 ## How to Use
 
@@ -28,12 +91,12 @@ The following files are included in this repository:
 
 ## License
 
-Add your license here (e.g., MIT, CC0, or specify your own terms).  
+Add your license here (for example, MIT, CC0, or your own terms).  
 *If you use these assets in a project, credit is appreciated but not required.*
 
 ## Contributing
 
-Contributions are welcome! Please create a pull request for new models, improvements, or suggestions.
+Contributions are welcome! Create a pull request for new models, improvements, or suggestions.
 
 ---
 
