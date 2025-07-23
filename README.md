@@ -33,6 +33,7 @@ Browse thumbnails below; download and use any asset you need.
 1. **Clone or download** the repository.
 2. **Open any `.blend` file** in Blender (v2.8 or newer recommended).
 3. **Edit, append, or export** models for your project.
+   
 
 ---
 
