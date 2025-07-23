@@ -12,7 +12,7 @@ Preview thumbnails are shown below for quick reference.
 | Laptop.blend      | ![Laptop](images/laptop.png)           | Laptop computer                  |
 | OilBarrel.blend   | ![Oil Barrel](images/oilbarrel.png)    | Industrial oil barrel            |
 | Rocket 2.blend    | ![Rocket](images/rocket2.png)          | Stylized rocket ship             |
-| Rubics Cube.blend1| ![Rubik's Cube](images/Rubics Cube.png) | Rubik’s cube puzzle              |
+| Rubics Cube.blend1| ![Rubik's Cube](images/RubicsCube.png) | Rubik’s cube puzzle              |
 | Shop.blend        | ![Shop](images/shop.png)               | Shop/storefront                  |
 | concrete slab.blend| ![Concrete Slab](images/concreteslab.png) | Rectangular concrete slab    |
 | wooden pallet.blend| ![Wooden Pallet](images/woodenpallet.png) | Wooden pallet for logistics |
