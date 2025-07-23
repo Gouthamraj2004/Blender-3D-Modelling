@@ -1,26 +1,46 @@
 # 3D Model Assets for Blender
 
-This repository contains `.blend` files for various 3D models.  
-Preview thumbnails are shown below for quick reference.
+A curated collection of Blender (.blend) files for easy use in your 3D projects.  
+Browse thumbnails below; download and use any asset you need.
 
-| Model Name        | Preview                                | Description                      |
-|-------------------|----------------------------------------|----------------------------------|
-| Battery.blend     | ![Battery](images/battery.png)         | Basic 3D battery model           |
-| Drone.blend       | ![Drone](images/drone.png)             | Simple drone/quadcopter model    |
-| Gift.blend        | ![Gift](images/gift.png)               | Wrapped gift box                 |
-| Joystick.blend    | ![Joystick](images/joystick.png)       | Video game joystick              |
-| Laptop.blend      | ![Laptop](images/laptop.png)           | Laptop computer                  |
-| OilBarrel.blend   | ![Oil Barrel](images/oilbarrel.png)    | Industrial oil barrel            |
-| Rocket 2.blend    | ![Rocket](images/rocket2.png)          | Stylized rocket ship             |
-| Rubics Cube.blend1| ![Rubik's Cube](images/RubicsCube.png) | Rubik’s cube puzzle              |
-| Shop.blend        | ![Shop](images/shop.png)               | Shop/storefront                  |
-| concrete slab.blend| ![Concrete Slab](images/concreteslab.png) | Rectangular concrete slab    |
-| wooden pallet.blend| ![Wooden Pallet](images/woodenpallet.png) | Wooden pallet for logistics |
+---
 
-> *Thumbnails display at their natural resolution; for smaller icons, resize your images to about 100×100–200×200 px before uploading.*
 
-## Usage
+## 🖼️ Asset Gallery
 
-- Clone/download this repository.
-- Open any `.blend` file in Blender (v2.8+).
-- Use and modify assets as needed.
+| ![Battery](images/battery.png)        | ![Drone](images/drone.png)        | ![Gift](images/gift.png)         |
+|:-------------------------------------:|:---------------------------------:|:--------------------------------:|
+| Battery.blend<br><small>Battery</small> | Drone.blend<br><small>Drone</small> | Gift.blend<br><small>Gift box</small> |
+
+| ![Joystick](images/joystick.png)      | ![Laptop](images/laptop.png)      | ![Oil Barrel](images/oilbarrel.png)   |
+|:-------------------------------------:|:---------------------------------:|:-------------------------------------:|
+| Joystick.blend<br><small>Joystick</small> | Laptop.blend<br><small>Laptop</small> | OilBarrel.blend<br><small>Barrel</small> |
+
+| ![Rocket](images/rocket2.png)        | ![Rubik's Cube](images/rubicscube.png)   | ![Shop](images/shop.png)          |
+|:------------------------------------:|:----------------------------------------:|:---------------------------------:|
+| Rocket 2.blend<br><small>Rocket</small> | Rubics Cube.blend1<br><small>Rubik's Cube</small> | Shop.blend<br><small>Shop</small> |
+
+| ![Concrete Slab](images/concreteslab.png) | ![Wooden Pallet](images/woodenpallet.png) |                                      |
+|:-----------------------------------------:|:----------------------------------------:|:------------------------------------:|
+| concrete slab.blend<br><small>Concrete Slab</small> | wooden pallet.blend<br><small>Wooden Pallet</small> |                                    |
+
+> *Tip: Images above are thumbnail previews. Open the `.blend` files in Blender to explore, modify, or export.*
+
+---
+
+## 🟢 Quick Start
+
+1. **Clone or download** the repository.
+2. **Open any `.blend` file** in Blender (v2.8 or newer recommended).
+3. **Edit, append, or export** models for your project.
+
+---
+
+## 🤝 Contributing
+
+Pull requests with new models or improvements are very welcome.  
+Use clear file and image names, and add thumbnails to this gallery for any new assets.
+
+---
+
+*Your all-in-one Blender asset shelf!*
