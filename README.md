@@ -16,7 +16,7 @@ Browse thumbnails below; download and use any asset you need.
 |:-------------------------------------:|:---------------------------------:|:-------------------------------------:|
 | Joystick.blend<br><small>Joystick</small> | Laptop.blend<br><small>Laptop</small> | OilBarrel.blend<br><small>Barrel</small> |
 
-| ![Rocket](images/rocket2.png)        | ![Rubik's Cube](images/rubicscube.png)   | ![Shop](images/shop.png)          |
+| ![Rocket](images/rocket2.png)        | ![Rubik's Cube](images/Rubicscube.png)   | ![Shop](images/shop.png)          |
 |:------------------------------------:|:----------------------------------------:|:---------------------------------:|
 | Rocket 2.blend<br><small>Rocket</small> | Rubics Cube.blend1<br><small>Rubik's Cube</small> | Shop.blend<br><small>Shop</small> |
 
